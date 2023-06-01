@@ -1,2 +1,3 @@
 Git practice branching
 second line added
+bug fix
